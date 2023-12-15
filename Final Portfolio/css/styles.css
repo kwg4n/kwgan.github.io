@@ -1,0 +1,101 @@
+body {
+    font-family: 'Mina';
+    margin: 20px;
+    padding: 20px 20px 50px;
+    background-color: #00CFB0;
+}
+
+header {
+    text-align: center;
+    background-color: #3f3f3f;
+    color: #fff;
+    padding: 10px;
+    border: 0;
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+nav {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.navbar-link .navbar-nav .nav-link {
+    color: white;
+    text-align: center;
+}
+
+#about-me {
+    padding-top: 50px;
+}
+
+#projects {
+    text-align: center;
+    padding: 100px;
+
+}
+
+section {
+    margin-top: 30px;
+    font: 'Nova Square';
+}
+
+#skills {
+    padding-bottom: 15px;
+    background-color: #3f3f3f;
+    color: #fff;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#about-me {
+    padding-top: 15px;
+}
+
+#resume {
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    clear: both;
+}
+
+.accordion {
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.accordion-button {
+    background-color:#f4e8a1;
+    border: 2px solid;
+    border-color: #333;
+}
+
+.accordion-button:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.accordion-button:hover {
+    background-color:#add8e6;
+}
+
+.accordion-body {
+    background-color: #84E7A1;
+}
+
+a {
+    color:#1e64aa;
+}
